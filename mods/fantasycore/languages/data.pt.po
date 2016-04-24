@@ -77,11 +77,11 @@ msgstr ""
 
 #: ../items/qualities.txt:18
 msgid "Epic"
-msgstr ""
+msgstr "Épico"
 
 #: ../items/qualities.txt:23
 msgid "Unique"
-msgstr ""
+msgstr "Único"
 
 #: ../engine/loot.txt:13
 #: ../engine/loot.txt:19
@@ -253,23 +253,23 @@ msgstr ""
 
 #: ../engine/equip_flags.txt:13
 msgid "mental weapon"
-msgstr ""
+msgstr "Arma mental"
 
 #: ../engine/equip_flags.txt:17
 msgid "shield"
-msgstr ""
+msgstr "Escudo"
 
 #: ../engine/equip_flags.txt:21
 msgid "slingshot"
-msgstr ""
+msgstr "Estilingue"
 
 #: ../engine/equip_flags.txt:25
 msgid "bow"
-msgstr ""
+msgstr "Arco"
 
 #: ../cutscenes/credits.txt:8
 msgid "Flare Game Credits - fantasycore"
-msgstr ""
+msgstr "Flare créditos do jogo - fantasycore"
 
 #: ../cutscenes/credits.txt:10
 msgid "Lead Visual Artists - Clint Bellanger and Justin Nichol"
